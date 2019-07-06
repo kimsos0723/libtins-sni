@@ -1,2 +1,2 @@
 # SNI_viewer
-SNI_viwer for Sniffox
+it is Sni viewer 
